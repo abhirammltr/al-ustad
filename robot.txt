@@ -1,0 +1,18 @@
+# Al-Ustad Hotel Robots.txt
+# Optimized for Googlebot and Bingbot
+
+User-agent: *
+Allow: /
+Allow: /assets/
+
+# This ensures Google can see your delicious food photos for Image Search
+Allow: /assets/*.jpg
+Allow: /assets/*.png
+Allow: /assets/*.webp
+
+# Block access to any private or system folders (if you add them later)
+Disallow: /admin/
+Disallow: /scripts/
+
+# The Map for the Crawlers
+Sitemap: https://alustadhotel.in/sitemap.xml

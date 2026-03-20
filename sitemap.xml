@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <url>
+    <loc>https://alustadhotel.in/</loc>
+    <lastmod>2026-03-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    
+    <image:image>
+      <image:loc>https://alustadhotel.in/assets/best-sea-food-restaurant-in-trivandrum-banner.png</image:loc>
+      <image:caption>The Best Seafood Experience in Trivandrum - Al-Ustad Hotel</image:caption>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://alustadhotel.in/assets/best-sea-food-restaurant-in-trivandrum-about.png</image:loc>
+      <image:caption>Authentic Kerala Fish Fry at Al-Ustad Hotel Vizhinjam</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://alustadhotel.in/assets/best-sea-food-restaurant-in-trivandrum-aavoli.png</image:loc>
+      <image:caption>Fresh Avoli Fry - Signature Dish of Al-Ustad Hotel</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://alustadhotel.in/assets/best-sea-food-restaurant-in-trivandrum-crab.png</image:loc>
+      <image:caption>Spicy Kerala Crab Fry at Vizhinjam Harbor</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://alustadhotel.in/assets/best-sea-food-restaurant-in-trivandrum-aavoli-pollichath.png</image:loc>
+      <image:caption>Traditional Avoli Ilayil Pollichath wrapped in banana leaves</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://alustadhotel.in/assets/best-sea-food-restaurant-in-trivandrum-squid.png</image:loc>
+      <image:caption>Spicy Squid Roast (Kanava) - Al-Ustad Special</image:caption>
+    </image:image>
+
+  </url>
+</urlset>
